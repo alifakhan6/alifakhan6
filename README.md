@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineer and Cloud Syste
 
 ## About Me
 
-- 🌱 **Currently Learning:** Advanced Cloud Systems, MLOps, and LAMP stack development.
+- 🌱 **Currently Learning:** Advanced Cloud Systems, MLOps, and Terraform.
 - 💻 **Technologies I Work With:** Python, C, MySQL, NoSQL, AWS (Lambda, S3, API Gateway, etc.), Docker, Jenkins, and more.
 - 🔗 **Connect with Me:**  
   [LinkedIn](https://linkedin.com/in/alifa-khan)  |  [Email](mailto:alifa.khan13@gmail.com)  |  [GitHub](https://github.com/alifakhan6)
